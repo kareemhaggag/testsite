@@ -328,29 +328,29 @@ pre {
       margin-left: auto;
       margin-right: auto; } }
 
-ul.publications {
+ul.research {
   list-style: none;
   margin: 0; }
-  ul.publications li {
+  ul.research li {
     margin-bottom: 16px; }
-  ul.publications .title {
+  ul.research .title {
     display: block;
     font-size: 1.1rem;}
-  ul.publications .authors {
+  ul.research .authors {
     display: block;
     font-style: bold;}
-  ul.publications .journal-info {}
-  ul.publications .year {
+  ul.research .journal-info {}
+  ul.research .year {
     float: right;}
-  ul.publications .abstract {
+  ul.research .abstract {
     display: block;
     color: #828282;
     font-size: 0.9rem;}
-  ul.publications .extra {
+  ul.research .extra {
     display: block;}
-  ul.publications .press {
+  ul.research .press {
     display: block;}
-  ul.publications .appendix {
+  ul.research .appendix {
     display: block;}
     
 
