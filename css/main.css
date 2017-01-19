@@ -347,6 +347,10 @@ ul.publications {
     display: block;
     color: #828282;
     font-size: 0.9rem;}
+  ul.publications .extra {
+    display: block;}
+  ul.publications .press {
+    display: block;}
 
 /**
  * Syntax highlighting styles
