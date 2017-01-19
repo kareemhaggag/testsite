@@ -335,11 +335,10 @@ ul.publications {
     margin-bottom: 16px; }
   ul.publications .title {
     display: block;
-    font-size: 1.5rem;}
+    font-size: 1.3rem;}
   ul.publications .authors {
     display: block;
-    font-style: bold; 
-    margin-right: 10px;}
+    font-style: bold;}
   ul.publications .journal-info {}
   ul.publications .year {
     float: right;}
@@ -351,6 +350,9 @@ ul.publications {
     display: block;}
   ul.publications .press {
     display: block;}
+  ul.publications .appendix {
+    display: block;}
+    
 
 /**
  * Syntax highlighting styles
