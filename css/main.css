@@ -339,8 +339,7 @@ ul.publications {
     display: block;
     font-style: bold; }
   ul.publications .journal-info {}
-  ul.publications .year {
-    float: right;}
+  ul.publications .year {}
   ul.publications .abstract {
     color: #828282;
     font-size: 0.9rem;}
