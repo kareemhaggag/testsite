@@ -337,14 +337,13 @@ ul.publications {
     display: block; }
   ul.publications .authors {
     display: block;
-    font-style: italic; }
-  ul.publications .journal-info {
-    color: #828282;
-    font-size: 0.9rem; }
+    font-style: bold; }
+  ul.publications .journal-info {}
   ul.publications .year {
-    float: right;
+    float: right;}
+  ul.publications .abstract {
     color: #828282;
-    font-size: 0.9rem; }
+    font-size: 0.9rem;}
 
 /**
  * Syntax highlighting styles
