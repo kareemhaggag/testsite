@@ -334,7 +334,8 @@ ul.publications {
   ul.publications li {
     margin-bottom: 16px; }
   ul.publications .title {
-    display: block; }
+    display: block;
+    font-size: 1.2rem;}
   ul.publications .authors {
     display: block;
     font-style: bold; }
